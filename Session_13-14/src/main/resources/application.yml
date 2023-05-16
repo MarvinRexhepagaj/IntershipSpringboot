@@ -1,0 +1,6 @@
+spring:
+  security:
+    user:
+      name: admin
+      password: 591d04b3-f63d-4caa-b33c-36aab6f8da2f
+      roles: ADMIN
